@@ -1,0 +1,10 @@
+spring:
+  rabbitmq:
+    username: yueqian
+    password: yueqian
+    host: 192.168.9.131
+
+custom:
+  rabbitmq:
+    bigad: adqueue
+    solr: solrqueue

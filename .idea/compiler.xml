@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ego_service" />
+        <module name="ego_rabbitmq_consumer" />
+        <module name="ego_search" />
+        <module name="ego_cart" />
+        <module name="ego_rabbitmq" />
+        <module name="ego_pojo" />
+        <module name="ego_serviceimpl" />
+        <module name="ego_manage" />
+        <module name="ego_passport" />
+        <module name="ego_order" />
+        <module name="ego_portal" />
+        <module name="ego_commons" />
+        <module name="ego_mapper" />
+        <module name="ego_item" />
+        <module name="ego_redis" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

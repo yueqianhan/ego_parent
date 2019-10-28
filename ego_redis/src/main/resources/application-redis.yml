@@ -1,0 +1,10 @@
+spring:
+  redis:
+    host: 192.168.9.130
+
+custom:
+  redis:
+    portalNavKey: portalNavKey
+    bigAdKey: bigAd
+    item-detail: detail
+    cart: cart

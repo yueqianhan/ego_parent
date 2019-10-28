@@ -1,0 +1,9 @@
+dubbo:
+  application:
+    name: serviceimpl-dubbo
+  registry:
+    address: zookeeper://192.168.9.128:2181
+
+spring:
+  profiles:
+    active: mybatis
